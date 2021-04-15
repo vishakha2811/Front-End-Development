@@ -1,0 +1,49 @@
+body{
+
+  background-color:white;
+  margin:0px;
+}
+
+.main{
+   background-color:#1b262c;
+   height:50px;
+   width:100%;
+   border-top-width: 50px;
+   padding-top: 10px;
+}
+.about{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-right:20px;
+  padding-left:50px;
+  color:white;
+}
+.heading{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-right:20px;
+  padding-left:50px;
+  color:white;
+}
+#department{
+  background-color:white;
+   width:200px;
+   height:500px;
+   display:inline-block;
+
+}
+.write{
+  display:inline-block;
+  padding-left:50px;
+}
+.engineering{
+  width:200px;
+  height:50px;
+  padding-top: 10px;
+}
+.dept{
+  width:200px;
+  height:50px;
+  color:white;
+  background-color:#1b6ca8;
+}
